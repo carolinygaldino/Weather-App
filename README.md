@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/License-MIT-blue.svg">
 </p>
 
-![Enter Location](https://github.com/carolinygaldino/Weather-App/blob/main/Weather%20App/Images/Enter-location.png)![Weather  In Location](/Images/WeatherInLocation.png)</img>
+![Enter Location](https://github.com/carolinygaldino/Weather-App/blob/main/Weather%20App/Images/Enter-location.png)![Weather  In Location](https://github.com/carolinygaldino/Weather-App/blob/main/Weather%20App/Images/Inf.png)</img>
 
 <p align="center">
   This code is for a simple weather app webpage that allows users to search for the weather in a given location. The webpage is designed to have a responsive layout, so it will look good on a desktop computer or a mobile device.
