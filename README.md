@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/License-MIT-blue.svg">
 </p>
 
+<img align="center">
 ![Enter Location](https://github.com/carolinygaldino/Weather-App/blob/main/Weather%20App/Images/Enter-location.png)
 ![Weather  In Location](https://github.com/carolinygaldino/Weather-App/blob/main/Weather%20App/Images/Inf.png)</img>
 
